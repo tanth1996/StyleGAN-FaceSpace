@@ -6,7 +6,10 @@ __pycache__/
 karras2019stylegan-ffhq-1024x1024.for_g_all.pt
 weights/*
 landmarks/shape_predictor_68_face_landmarks.dat
-Idol Space/*
 Pose Conditioning
 Ayaneru FaceSpace
 UsideU FaceSpace
+Pose Transfer/AliData_ID.obj
+Pose Transfer/TseData_ID.obj
+Idol FaceSpace/FaceModel_weights.pth
+Idol FaceSpace/FaceModel_weights2.pth
