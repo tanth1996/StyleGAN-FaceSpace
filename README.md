@@ -30,8 +30,12 @@ And also do face morphing:
 Face blending/morphing is not alwayys stable, but with some manual tuning of the input vectors, a good quality face can be obtained by eye. 
 Selecting images with similar lighting/angles can improve the stability of the blending/morphing.
 
-# Original StyleGAN by Nvidia
+# Due Credit
+## Original StyleGAN by Nvidia
 Nvidia's groundbreaking [StyleGAN](https://github.com/NVlabs/stylegan) forms the heart of this project.
 
-# PyTorch port of StyleGAN
+## PyTorch port of StyleGAN
 Code for constructing the StyleGAN model is based on a PyTorch port of Nvidia's StyleGAN from the [Lernapparat repository](https://github.com/lernapparat/lernapparat/tree/541b6b1f21cbce602c4981cb3fb73f75b42227c8).
+
+## UsideU
+This project was conceived of as part of one of UsideU's projects during my internship. This work would not have been possible without the supportive members of UsideU, especially Alireza Goudarzi who generously and patiently mentored me throughtout my undertaking of this project.
